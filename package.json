@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "waukesha-records",
+  "version": "1.0.0",
+  "description": "Unofficial record of Waukesha city and county council records, made easily searchable. With significant influence from phildini/alameda-data and CouncilDataProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcopley/waukesha-records.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcopley/waukesha-records/issues"
+  },
+  "homepage": "https://github.com/pcopley/waukesha-records#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.2.10"
+  }
+}
