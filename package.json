@@ -20,6 +20,8 @@
   "homepage": "https://github.com/pcopley/waukesha-records#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
-    "node-fetch": "^3.2.10"
+    "luxon": "^3.0.1",
+    "node-fetch": "^3.2.10",
+    "pg": "^8.8.0"
   }
 }
