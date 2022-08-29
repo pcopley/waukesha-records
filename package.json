@@ -19,7 +19,10 @@
   },
   "homepage": "https://github.com/pcopley/waukesha-records#readme",
   "dependencies": {
+    "@supabase/supabase-js": "^1.35.6",
     "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.0.1",
+    "find-config": "^1.0.0",
     "luxon": "^3.0.1",
     "node-fetch": "^3.2.10",
     "pg": "^8.8.0"
